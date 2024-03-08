@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hello, my name is Gabriel Guzman, I am currently 21 years old and I aspiring to become a proper and strong programmer. Currently, I am working on a side projects in the coding language Lua, but I'm mainly focused on completing my studies at FIU. You can reach out to me at gguzm037@fiu.edu, I am willing to collaborate
-with others.
 <!--
 **GabrielGuzman27/GabrielGuzman27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
